@@ -10,7 +10,7 @@ https://www.curseforge.com/minecraft/bukkit-plugins/custom-player-models-bukkit<
 
 <b>
 How to apply?
-</b><br>
+</b><br><br>
 
 1. Install Customizable Player Models from CurseForge/Modrinth/GitHub
 2. Open your Minecraft directory/the folder of your profile 
