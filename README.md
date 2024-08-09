@@ -18,4 +18,11 @@ How to apply?
 4. Open a single player world and open the gestures menu (Keybind: G)
 5. Go to Models and choose a model to play as
 
+<b><br>
+Customizing a model
+</b><be><br><br>
+In the base folder, there is a .cpmproject file you can open in the mod's editor.
+<br> There you can edit the model, add your own animations, and edit the texture.
+<br> When exporting the model for use, please include a credit!<br><br>
+
 Enjoy!
